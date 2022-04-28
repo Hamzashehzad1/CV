@@ -1,0 +1,10 @@
+img{
+  width: 128px;
+  height: 128px;
+  border-radius: 500px;
+}
+
+thead{
+  background-color: #1877a5;
+  border-radius: 5px;
+}
